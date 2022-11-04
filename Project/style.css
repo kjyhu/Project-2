@@ -5,12 +5,14 @@ nav{
     align-items:center;
     height:100px;
     background-color: lightblue;
+    font-style: bold;
+    font-family: 'Courier New', Courier, monospace;
 }
 a{
-    color: red;
+    color: #2F5C8F;
 }
 a:link { text-decoration: none; }
-div{
+.context{
     justify-content: center;
     text-align: center;
     margin: auto;
@@ -24,4 +26,7 @@ img{
 }
 p{
     font-size: 20px;
+}
+body{
+    background-color: #abd699;
 }
