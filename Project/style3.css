@@ -40,4 +40,14 @@ table{
 }
 th,td{
     padding: 10px;
- }
+    border: 2px solid black
+}
+br+b{
+    font-size: 36px;
+}
+th{
+    background-color: #2F5C8F;
+}
+td{
+    background-color: lightgrey;
+}
